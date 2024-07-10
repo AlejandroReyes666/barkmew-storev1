@@ -17,7 +17,10 @@ repositories {
 	mavenCentral()
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c3a12e721b98b9892da841a93cad350ddbc56ab3
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	runtimeOnly 'com.mysql:mysql-connector-j'
